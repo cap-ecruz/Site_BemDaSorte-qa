@@ -8,4 +8,7 @@ Installation
     Rode o comando pip install -r requirements.txt para instalar as dependencias de desenvolvimento.
 
 Testes
-Para o rodar os testes devemos rodar, no terminal o comando: behave para rodar todos os scripts de teste, behave  --tags=@barraDeslogado para rodar apenas um script de teste (@barraDeslogado, por exemplo) ou behave -f html -o behave-report.html para rodar todos os scripts e gerar o relatório (report.html)
+Para o rodar os testes devemos rodar, no terminal o comando:
+behave para rodar todos os scripts de teste, 
+behave  --tags=@barraDeslogado para rodar apenas um script de teste (@barraDeslogado, por exemplo) ou 
+behave -f html -o behave-report.html para rodar todos os scripts e gerar o relatório (report.html)
