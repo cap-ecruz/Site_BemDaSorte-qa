@@ -1,9 +1,9 @@
 Para rodar o projeto é necessário ter a versão 3.11 do Python instalado em sua máquina.
 Installation
 
-    Clone o projeto (https://github.com/cap-ecruz/amepremiada-qa.git).
+    Clone o projeto (https://github.com/cap-ecruz/bemdasorte-qa.git).
 
-    Entre na pasta cd amepremiada-qa
+    Entre na pasta cd bemdasorte-qa
 
     Rode o comando pip install -r requirements.txt para instalar as dependencias de desenvolvimento.
 
